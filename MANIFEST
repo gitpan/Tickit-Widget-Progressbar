@@ -1,0 +1,14 @@
+Build.PL
+Changes
+LICENSE
+MANIFEST
+META.yml
+Makefile.PL
+README
+dist.ini
+examples/bar.pl
+lib/Tickit/Widget/Progressbar.pm
+lib/Tickit/Widget/Progressbar/Horizontal.pm
+lib/Tickit/Widget/Progressbar/Vertical.pm
+t/00-pod.t
+t/00-use.t
