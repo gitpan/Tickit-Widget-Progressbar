@@ -1,5 +1,5 @@
 ---
-abstract: 'use strict;'
+abstract: 'horizontal/vertical progress bars for Tickit'
 author:
   - 'Tom Molesworth <cpan@entitymodel.com>'
 build_requires:
@@ -17,4 +17,4 @@ name: Tickit-Widget-Progressbar
 requires:
   Tickit: 0.12
   parent: 0
-version: 0.001
+version: 0.002

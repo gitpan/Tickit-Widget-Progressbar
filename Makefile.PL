@@ -9,7 +9,7 @@ use ExtUtils::MakeMaker 6.30;
 
 
 my %WriteMakefileArgs = (
-  "ABSTRACT" => "use strict;",
+  "ABSTRACT" => "horizontal/vertical progress bars for Tickit",
   "AUTHOR" => "Tom Molesworth <cpan\@entitymodel.com>",
   "BUILD_REQUIRES" => {
     "Module::Build" => "0.3601"
@@ -26,7 +26,7 @@ my %WriteMakefileArgs = (
     "Tickit" => "0.12",
     "parent" => 0
   },
-  "VERSION" => "0.001",
+  "VERSION" => "0.002",
   "test" => {
     "TESTS" => "t/*.t"
   }

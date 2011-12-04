@@ -13,12 +13,12 @@ my %module_build_args = (
     "ExtUtils::MakeMaker" => "6.30",
     "Module::Build" => "0.3601"
   },
-  "dist_abstract" => "use strict;",
+  "dist_abstract" => "horizontal/vertical progress bars for Tickit",
   "dist_author" => [
     "Tom Molesworth <cpan\@entitymodel.com>"
   ],
   "dist_name" => "Tickit-Widget-Progressbar",
-  "dist_version" => "0.001",
+  "dist_version" => "0.002",
   "license" => "perl",
   "module_name" => "Tickit::Widget::Progressbar",
   "recommends" => {},

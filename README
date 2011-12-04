@@ -1,9 +1,9 @@
 
 
 This archive contains the distribution Tickit-Widget-Progressbar,
-version 0.001:
+version 0.002:
 
-  use strict;
+  horizontal/vertical progress bars for Tickit
 
 This software is copyright (c) 2011 by Tom Molesworth.
 
