@@ -1,0 +1,54 @@
+This file contains message digests of all files listed in MANIFEST,
+signed via the Module::Signature module, version 0.73.
+
+To verify the content in this distribution, first make sure you have
+Module::Signature installed, then type:
+
+    % cpansign -v
+
+It will check each file's integrity, as well as the signature's
+validity.  If "==> Signature verified OK! <==" is not displayed,
+the distribution may already have been compromised, and you should
+not run its Makefile.PL or Build.PL.
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+SHA1 79a7aade0d06d6d513bc2c3a989cc5986cf62ffc Changes
+SHA1 1c0fa32e2757b1addd45243dacdbd72e52a6c437 INSTALL
+SHA1 fcecd203a27c044eb4138dc70de012aa384a2234 LICENSE
+SHA1 6adb6b6a48716e0c8c5bde50207d4d4ed2307334 MANIFEST
+SHA1 2a978520ff5506a378494540da9c23509e0c3dee META.json
+SHA1 3127684d6a2e8d06dd7cddbb3530cade2194d200 META.yml
+SHA1 67632f70a7164ffcf98bd34b51fcb9cfd8937388 Makefile.PL
+SHA1 5391db2548db4a94f6ae00e743c887b8eda267dc README
+SHA1 c6f5824ae5dc2725717a7689affbfd5be48b8137 cpanfile
+SHA1 9b7ec83a345bee99c132124a8b998b9bc32cb1c2 dist.ini
+SHA1 20ca7531b92a3ed0809b198b2d1b368f3da1082a examples/bar.pl
+SHA1 e47241e6dc8434b5dc22751fb6ccdc5e416b6221 examples/horizontal.pl
+SHA1 19cce0c8ddaeb5936e5c6b5cf673353d30f16cee examples/random.pl
+SHA1 13b3481af2c640663328a176a27694c37e310faa examples/vertical.pl
+SHA1 6c241c29008d988f32ca2c66230b0ab96ac34c32 lib/Tickit/Widget/Progressbar.pm
+SHA1 c3f299cb454bfbaa3c805b43a72f75cbdfec9c45 lib/Tickit/Widget/Progressbar.pod
+SHA1 99f8f943452c46500197bfc0f4303bdd125d18d0 lib/Tickit/Widget/Progressbar/Horizontal.pm
+SHA1 52615f08bb263cb4027583cef7c4c0b828f657e2 lib/Tickit/Widget/Progressbar/Horizontal.pod
+SHA1 031acd4638d57d5c97fbc60c0fd110324ee831f1 lib/Tickit/Widget/Progressbar/Vertical.pm
+SHA1 a26e2727e755a1134cc1e40fbfd426108ec31c3d lib/Tickit/Widget/Progressbar/Vertical.pod
+SHA1 90f75289c4dda63c94bc5e897f4996b15d9e42dd t/00-check-deps.t
+SHA1 2c70be8994294663d50b571c976416e9d2ba58c9 t/00-compile.t
+SHA1 198d1665317c3d91e3bb81f0a3b8dad8d4d66f20 xt/release/common_spelling.t
+SHA1 c6c3c9f7fe12058b4771449dff874b1c450c982c xt/release/mojibake.t
+SHA1 9934d36e45e1143c1a54658bc48872e0591af41b xt/release/pod-syntax.t
+SHA1 fd1fa776fca35fc8f1bdd24ee3fbaa1eca755a44 xt/release/synopsis.t
+SHA1 bbcd59d081d9940af5d43337ae85458075933829 xt/release/test-version.t
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.12 (GNU/Linux)
+
+iQEcBAEBAgAGBQJSLMAhAAoJEFKElMNpjtyDRgcH+QGqtNLazugOpbgeoucnfoGO
+f5c8HlVmrSjcE49YpoEo7yUyBseAi/g4SCwQGFYRS1MYR9GA+H1SczOXwttOZMqq
+Y9qFw4w0qTakoKBpttqJRFP2gEYy1edm8OLIwVKfFqIPbpNAoimqWAH2xhhRgVpd
+1diYfA45dL3fQxLiXTerZxlDJgXDHejrdpuHrEb7Ml20g8qyavJVkk1Eq+iRYq8f
+7kFrJzjhP5217aJ1bLbADUvOMSLAB3d+lehW30JeQLTB1iiVwGae6OxHCRU5Gnf+
+EfvCZUT+sbdoR3dfX2OLIPswGQInN7IRZUHJeck8YLaA4RnUZo96xHhiHkZsWGU=
+=ngNN
+-----END PGP SIGNATURE-----
