@@ -4,7 +4,7 @@ use strict;
 use warnings;
 use parent qw(Tickit::Widget);
 
-our $VERSION = '0.100';
+our $VERSION = '0.101';
 
 =head1 NAME
 
@@ -12,7 +12,7 @@ Tickit::Widget::Progressbar - simple progressbar implementation for Tickit
 
 =head1 VERSION
 
-version 0.100
+Version 0.101
 
 =head1 SYNOPSIS
 

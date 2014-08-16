@@ -1,7 +1,5 @@
 package Tickit::Widget::Progressbar::Horizontal;
-{
-  $Tickit::Widget::Progressbar::Horizontal::VERSION = '0.100';
-}
+$Tickit::Widget::Progressbar::Horizontal::VERSION = '0.101';
 use strict;
 use warnings;
 use parent qw(Tickit::Widget::Progressbar);
@@ -12,7 +10,7 @@ Tickit::Widget::Progressbar::Horizontal - simple progressbar implementation for 
 
 =head1 VERSION
 
-version 0.100
+Version 0.101
 
 =head1 SYNOPSIS
 
